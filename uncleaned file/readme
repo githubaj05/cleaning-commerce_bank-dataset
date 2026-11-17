@@ -1,1 +1,26 @@
+Source of the data: Found this data through online video source, the data has 13 columns and 603 rows
+
+Data Quality Assessments done:
+- Missing Values
+- Duplicate Records
+- Incorrect data-types
+- Inconsistent formatting
+- Blank Rows and Column
+- Otliners and Error
+
+Used Formulas and tricks used to clean and structure data
+
+- trim()
+- text()
+auto-fit row: alt + h + o + i
+auto-fit column: alt + h + o + a
+
+- I found this practice dataset which includes data formulas and tricks used in the uncleaned data.
+- to format header in excel:
+   - increase font size
+   - center-aligned
+   - bold the text
+   - changed background color
+
+- Also, to avoid headers to go away, freezed the headers via the view tab > freeze panes > freeze top-row
 
