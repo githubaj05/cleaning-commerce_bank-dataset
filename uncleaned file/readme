@@ -1,7 +1,7 @@
 ### Source of the data: 
 Found this data through online video source, the data has 13 columns and 603 rows
 
-### Data Quality Assessments done:
+## Data Quality Assessments done:
 - Missing Values
 - Duplicate Records
 - Incorrect data-types
@@ -9,7 +9,7 @@ Found this data through online video source, the data has 13 columns and 603 row
 - Blank Rows and Column
 - Otliners and Error
 
-### Used Formulas and tricks used to clean and structure data
+## Used Formulas and tricks used to clean and structure data
 
 - trim()
 - text()
@@ -23,6 +23,6 @@ auto-fit column: alt + h + o + a
    - bold the text
    - changed background color
 
-### Freezed headers
+## Freezed headers
 Also, to avoid headers to go away, freezed the headers via the view tab > freeze panes > freeze top-row
 
